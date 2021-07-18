@@ -30,7 +30,7 @@ class Forms extends Component{
         })
     }
     handleSubmit=(event)=>{
-        alert(`FirstName:${this.state.firstname} LastName${this.state.lastname} Email:${this.state.email} Topic:${this.state.topic}`)
+        alert(`FirstName:${this.state.firstname} LastName:${this.state.lastname} Email:${this.state.email} Topic:${this.state.topic}`)
         event.preventDefault()
     }
       render(){
