@@ -36,3 +36,48 @@
     transform: rotate(360deg);
   }
 }
+#details{
+  margin-top: 70px;
+}
+#sub{
+  margin-left: 50px;
+  font-size: 20px;
+  border-radius: 8px;
+  border-color: black;
+}
+#sub:hover{
+  background-color: #070707;
+  color: white;
+}
+
+form{
+  margin-top: 70px;
+  margin-bottom: 300px;
+
+}
+
+h1 {
+    font-size: 28px;
+    background: -webkit-linear-gradient(rgb(29, 29, 28), rgb(17, 17, 17));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+h3{
+    font-size: 25px;
+    background: -webkit-linear-gradient(rgb(213, 222, 223), rgb(233, 30, 142));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+label{
+    font-size: 25px;
+    background: -webkit-linear-gradient(rgb(213, 222, 223), rgba(230, 6, 174, 0.829));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+#bod{
+  background-color: #FFDEE9;
+background-image: linear-gradient(0deg, #FFDEE9 0%, #B5FFFC 100%);
+
+
+
+}
